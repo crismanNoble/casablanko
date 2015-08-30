@@ -1,0 +1,31 @@
+body, html {
+	font-family: sans-serif;
+	margin: 0;
+	background: #e6e7e7;
+	color: #232323;
+
+	height: 100%;
+	min-height: 100%;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale
+
+}
+
+h1,h2,h3,h4,h5,h6,p {
+	margin: 0;
+}
+
+p, li, h3, h4, h5 {
+	font-size: 15px;
+}
+
+a {
+	color: #232323;
+}
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
